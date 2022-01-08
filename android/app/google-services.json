@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96114908959",
+    "project_id": "interview-7f9af",
+    "storage_bucket": "interview-7f9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96114908959:android:86e3669536e46afabeda2a",
+        "android_client_info": {
+          "package_name": "com.example.interviewfcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96114908959-e4sk8et9ke2de0heb6sck4jtf0tt3vid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6ZHErYf6gNW1r0oHfcKjeHh11cckc3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96114908959-e4sk8et9ke2de0heb6sck4jtf0tt3vid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
